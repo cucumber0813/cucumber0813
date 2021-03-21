@@ -13,13 +13,13 @@
 
 >문단 모양이 된거죠.
 >
-
+   
    '''
    코드 블럭 안
    '''
 * * *
 
-<img width="" height="" src=" ./png/고양이.jpg"></img>
+<img width="" height="" src=" ./jpg/고양이.jpg"></img>
 
 
 
