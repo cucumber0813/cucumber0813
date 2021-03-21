@@ -19,6 +19,8 @@
 ...
 * * *
 
-<img width="" height="" src=" ./png/고양이.png.jpg"></img>
+<img width="" height="" src=" ./png/고양이.jpg"></img>
+
+
 
 
